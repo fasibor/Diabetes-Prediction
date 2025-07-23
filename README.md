@@ -1,6 +1,7 @@
 # Diabetes-Prediction
 
-![Dashboard 7](https://github.com/user-attachments/assets/26dcb2d1-757b-4605-b91b-622763ed15ed)
+
+<img width="6118" height="4682" alt="Diabetes Prediction" src="https://github.com/user-attachments/assets/60ab2375-f33a-46a0-b2a9-2e5ae09d4f46" />
 
 
 ## Overview
@@ -15,7 +16,7 @@ By identifying meaningful correlations and patterns in the data, this study aims
 
 Ultimately, the goal is to contribute to **better health outcomes** through a **data-driven understanding** of diabetes risk factors.
 
----
+
 
 ## Why This Project is Useful
 
@@ -28,7 +29,7 @@ With the global rise in diabetes prevalence, understanding the underlying factor
 
 These insights can be applied across **clinical** and **policy** settings to enhance disease prevention, diagnosis, and management.
 
----
+
 
 ## Key Findings
 
@@ -53,7 +54,7 @@ These insights can be applied across **clinical** and **policy** settings to enh
 7. **Fasting Glucose Increases with Age**  
    Glucose levels peak at **136.5 mg/dL** for ages **60–64**, reinforcing the need for early screening and preventive steps in older adults.
 
----
+
 
 ## Actionable Recommendations
 
@@ -65,7 +66,7 @@ These insights can be applied across **clinical** and **policy** settings to enh
 - Use **multi-factor risk assessment** (cholesterol, diet, activity, family history) over BMI alone.
 - Begin **glucose screenings at age 40** and offer local **lifestyle improvement programs**.
 
----
+
 
 ## Final Thoughts
 
@@ -73,19 +74,19 @@ This project demonstrates how data analysis can uncover hidden patterns and driv
 
 It highlights the power of **predictive analytics** in healthcare and the essential role of data in shaping effective, proactive strategies.
 
----
+
 
 ## Maintainer
 
 **Felix Asibor** — Data Analyst passionate about using data to create positive health impact.  
 Specialized in extracting actionable insights from complex datasets in healthcare, behavioral science, and public policy.
 
----
+
 
 ## 📬 Contact
 
 📧 Email: [asiborfelix@gmail.com](mailto:asiborfelix@gmail.com)
 
----
+
 
 > Feel free to fork this repo, open issues, or contribute to the project!
